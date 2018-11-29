@@ -1,2 +1,2 @@
-# dbmslab
-lab manual
+# VTU_DBMSLab
+VTU prescribed projects for DBMS Lab
